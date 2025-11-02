@@ -1,0 +1,88 @@
+{
+  "hash": "ffcb8da8",
+  "configHash": "6210f478",
+  "lockfileHash": "dea783bc",
+  "browserHash": "8f148b07",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "8c662426",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "b330ef6a",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "2cbe769d",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "3c26911f",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "458b9b3e",
+      "needsInterop": true
+    },
+    "react-redux": {
+      "src": "../../react-redux/dist/react-redux.mjs",
+      "file": "react-redux.js",
+      "fileHash": "6d8ed4e7",
+      "needsInterop": false
+    },
+    "react-bootstrap/Container": {
+      "src": "../../react-bootstrap/esm/Container.js",
+      "file": "react-bootstrap_Container.js",
+      "fileHash": "8c4a295d",
+      "needsInterop": false
+    },
+    "react-bootstrap/Row": {
+      "src": "../../react-bootstrap/esm/Row.js",
+      "file": "react-bootstrap_Row.js",
+      "fileHash": "1d4695d7",
+      "needsInterop": false
+    },
+    "react-bootstrap/Col": {
+      "src": "../../react-bootstrap/esm/Col.js",
+      "file": "react-bootstrap_Col.js",
+      "fileHash": "d5641f8d",
+      "needsInterop": false
+    },
+    "react-bootstrap/Button": {
+      "src": "../../react-bootstrap/esm/Button.js",
+      "file": "react-bootstrap_Button.js",
+      "fileHash": "d8d162e5",
+      "needsInterop": false
+    },
+    "react-bootstrap/Card": {
+      "src": "../../react-bootstrap/esm/Card.js",
+      "file": "react-bootstrap_Card.js",
+      "fileHash": "ef5418fb",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-ZEJDETLQ": {
+      "file": "chunk-ZEJDETLQ.js"
+    },
+    "chunk-HHYHXNBQ": {
+      "file": "chunk-HHYHXNBQ.js"
+    },
+    "chunk-OBNO665P": {
+      "file": "chunk-OBNO665P.js"
+    },
+    "chunk-AQI5YXZE": {
+      "file": "chunk-AQI5YXZE.js"
+    }
+  }
+}
